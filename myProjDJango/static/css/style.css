@@ -39,6 +39,12 @@ a {
 a:hover {
     opacity: .85;
 } 
+
+.banner{
+    display: block;
+    width:  90%;
+    max-width: 800px;;
+}
 button{
     background-color: lightgreen;
     color: darkblue;
